@@ -7,6 +7,8 @@ title: A/B Testing Shipping Methods
 
 This project simulates a real-world A/B test I performed to determine whether switching from **UPS Ground** to the more affordable **UPS SurePost** could reduce costs **without compromising delivery reliability**.
 
+🧠 Note: Due to confidentiality, the data shown here is simulated using Python to match the structure and characteristics of the original Shopify export.
+
 ---
 
 ## 🎯 Objective
