@@ -37,7 +37,7 @@ This project simulates a real-world A/B test I performed to determine whether sw
 
 <!-- Replace `VIDEO_ID` with your YouTube video ID -->
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID" 
+  <iframe src="https://youtu.be/QNwY8eO2vUU" 
           frameborder="0" 
           allowfullscreen 
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
