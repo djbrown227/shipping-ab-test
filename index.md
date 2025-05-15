@@ -42,19 +42,23 @@ This project simulates a real-world A/B test I performed to determine whether sw
 
 ## 📊 Visuals
 
-### 📈 Distribution of Shipping Costs
+### 📈 Shipping Failure Rates
 
-*Histogram comparing cost distributions of UPS Ground and SurePost*
+*Bar Chart comparing failure rates of UPS Ground and SurePost*
 
-![Shipping Cost Distribution](assets/shipping_cost_distribution.png)
+![Shipping Failure Rate Bar Chart](assets/Screenshot 2025-05-13 at 2.16.09 PM.png)
 
+---
+### 📈 Chi-Squared Test Results
+*Chi-Squared Test testing failure rates of UPS Ground and SurePost*
+![Shipping Failure Rate Bar Chart](assets/Screenshot 2025-05-13 at 2.16.09 PM.png)
 ---
 
 ### 📦 Boxplot of Costs by Service
 
 *Boxplot visualizing cost variation and outliers for each service*
 
-![Shipping Cost Boxplot](assets/shipping_cost_boxplot.png)
+![Shipping Cost Boxplot](assets/Shipping_Cost_Boxplots.png)
 
 ---
 
