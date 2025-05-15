@@ -46,7 +46,7 @@ This project simulates a real-world A/B test I performed to determine whether sw
 
 *Bar Chart comparing failure rates of UPS Ground and SurePost*
 
-![Shipping Failure Rate Bar Chart](assets/Screenshot 2025-05-13 at 2.16.09 PM.png)
+![Shipping Failure Rate Bar Chart](assets/Screenshot 2025-05-13 at 2.13.00 PM.png)
 
 ---
 ### 📈 Chi-Squared Test Results
