@@ -73,14 +73,7 @@ This project simulates a real-world A/B test I performed to determine whether sw
 ## 🛠️ Tools Used
 
 - **Python**: pandas, numpy, scipy, seaborn, matplotlib  
-- **Docker** for containerized runs  
 - **Jekyll + GitHub Pages** for publishing this project  
 - **CapCut** for video editing
 
 ---
-
-## 🐳 Run This Project Locally with Docker
-
-```bash
-docker build -t ab_test .
-docker run --rm ab_test
